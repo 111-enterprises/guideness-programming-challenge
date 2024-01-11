@@ -16,7 +16,7 @@ Welcome! Your task is to create a piece of a web application that mimics the fun
 
 ## Submission
 1. Push your code to this GitHub repository or a separate repository.
-2. Step-by-step instructions on starting up the test.
+2. Documentation on starting up your submission.
 
 
 Good luck!
