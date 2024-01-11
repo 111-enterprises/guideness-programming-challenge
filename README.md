@@ -5,7 +5,7 @@ Welcome! Your task is to create a piece of a web application that mimics the fun
 
 
 ## Instructions
-- Implement screenshot below that was taken from our site using Vue and Laravel.
+- Implement the screenshot below that was taken from our site using Vue and Laravel.
 - Your frontend must consume a Laravel API.
 - The list data from the screenshot does not need to be exact i.e., images, text, tags, but it is most important that they work. You can just use dummy images and lorem ipsum for those.
 - Clicking on a tag should dynamically filter the list items with those items.
